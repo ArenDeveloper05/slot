@@ -1,0 +1,19 @@
+.bet {
+  padding: 16px;
+  margin: auto;
+  width: max-content;
+  margin-top: 32px;
+  background-color: tomato;
+  > input {
+    width: 300px;
+    height: 60px;
+    font-size: 30px;
+    border: none;
+    outline: none;
+    text-indent: 16px;
+    margin-left: 16px;
+  }
+  > span {
+    font-size: 36px;
+  }
+}

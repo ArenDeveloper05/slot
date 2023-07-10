@@ -1,0 +1,15 @@
+.home {
+  background-image: url("../../assets/images/shining-crown-background.avif");
+  position: relative;
+  min-height: 700px;
+  button {
+    font-size: 40px;
+    padding: 16px 64px;
+    position: absolute;
+    left: 10px;
+    top: 0;
+  }
+  > h1 {
+    text-align: center;
+  }
+}
