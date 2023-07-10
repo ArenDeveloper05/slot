@@ -1,12 +1,12 @@
-import sevenIcon from "../../../assets/images/7.jpg";
-import bananaIcon from "../../../assets/images/banana.jpg";
-import gilasIcon from "../../../assets/images/gilas.jpg";
-import limonIcon from "../../../assets/images/limon.jpg";
-import salorIcon from "../../../assets/images/salor.jpg";
-import barIcon from "../../../assets/images/bar.jpg";
-import orangeIcon from "../../../assets/images/orange.jpg";
-import watermelonIcon from "../../../assets/images/watermelon.jpg";
-import bigwinIcon from "../../../assets/images/bigwin.jpg";
+import sevenIcon from "../../../assets/images/7.png";
+import bananaIcon from "../../../assets/images/banana.png";
+import gilasIcon from "../../../assets/images/gilas.png";
+import limonIcon from "../../../assets/images/limon.png";
+import salorIcon from "../../../assets/images/salor.png";
+import barIcon from "../../../assets/images/bar.png";
+import orangeIcon from "../../../assets/images/orange.png";
+import watermelonIcon from "../../../assets/images/watermelon.png";
+import bigwinIcon from "../../../assets/images/bigwin.png";
 
 const ShiningCrownAnimation = () => {
   return (
